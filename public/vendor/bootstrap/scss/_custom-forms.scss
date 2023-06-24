@@ -13,8 +13,8 @@
   display: block;
   min-height: $font-size-base * $line-height-base;
   padding-left: $custom-control-gutter + $custom-control-indicator-size;
-  // color-adjust: exact; // Keep themed appearance for print
-  print-color-adjust:exact;
+  color-adjust: exact; // Keep themed appearance for print
+  // print-color-adjust:exact;
 
 }
 
